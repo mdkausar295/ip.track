@@ -3,4 +3,4 @@
 # cd ip.track
 # sudo apt install jp
 # chmod +x ip-track.sh
-# ./ip-track.sh
+# python ./ip-track.sh
